@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mis Contactos</string>
+    <string name="nombre">Diego Salas</string>
+    <string name="telefono">4771568</string>
+    <string name="email">dominicsc2hs@gmail.com</string>
+    <string name="pNombre">nombre</string>
+    <string name="pTelefono">telefono</string>
+    <string name="pEmail">eMail</string>
+    <string name="plikes">0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
